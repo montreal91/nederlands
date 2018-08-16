@@ -13,6 +13,7 @@
 * **bood** *(n)* - shop;
 
 ## C
+* **centraliseren** - to centralize;
 * **cultuur** *(f)* - culture;
 
 ## D
@@ -36,6 +37,7 @@
   * je hebt;
   * he heeft;
   * we hebben;
+* **hoewel** - however;
 * **honger** *(m)* - hunger;
 * **hoofd** *(n)* - head;
 
@@ -74,9 +76,11 @@
 
 ## O
 * **of** - or;
+* **officieel** - official, officially;
 * **op** - up;
 * **oprichting** *(f)* - establishment, founding;
 * **over** - over;
+* **overheid** *(f)* - public offices, government agencies;
 
 ## P
 * **partij** *(f)* - party, quantity;
