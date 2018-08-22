@@ -47,6 +47,8 @@
 
 ## J
 ## K
+* **koning** *(m)* - king;
+* **koninkrijk** *(n)* - kingdom;
 * **kort** - short;
 * **kortweg** - brief;
 * **krant** *(f)* - newspaper;
@@ -90,10 +92,14 @@
 ## R
 * **raad** *(m)* - advice, council;
 * **regeren** - to rule;
+* **rijk** - rich, wealthy; kingdom, state;
 
 ## S
+* **samen** - together;
+* **samenstellen** - to compose;
 * **sinds** - since;
 * **staat** *(m)* - state;
+* **stellen** - to state, to position;
 * **student** *(m)* - a student;
 * **studente** *(f)* - a female student;
 
