@@ -1,9 +1,11 @@
 ## A
+* **acht** - eight;
 * **afbeelding** *(f)* - picture;
 * **afsluiten** - to close off, seal;
 * **als** - if, when;
 
 ## B
+* **baan** *(f)* - job; a road, way, path;
 * **beer** *(m)* - bear;
 * **bekijken** - to look, to view;
   * ik bekijk;
@@ -18,14 +20,17 @@
 
 ## D
 * **dag** *(c)* - a day;
+* **dertien** - thirteen;
 * **die** - that;
 * **dinsdag** *(m)* - tuesday;
 * **doel** *(n)* - aim, purpose, goal;
 * **door** - through;
+* **drie** - three;
 * **duel** *(n)* - a duel;
 
 ## E
 * **eerste** - first;
+* **elf** - eleven;
 * **één** - one;
 * **Eurazië** - Eurasia;
 
@@ -75,8 +80,11 @@
 
 ## N
 * **na** - after;
+* **negen** - nine;
+* **negenteen** - nineteen;
 * **nieuw** *(adjective)* - new;
 * **nieuws** *(n)* - news;
+* **nul** - zero;
 
 ## O
 * **of** - or;
@@ -100,13 +108,18 @@
 * **samen** - together;
 * **samenstellen** - to compose;
 * **sinds** - since;
+* **spel** *(n)* - game;
 * **staat** *(m)* - state;
 * **stellen** - to state, to position;
 * **student** *(m)* - a student;
 * **studente** *(f)* - a female student;
 
 ## T
+* **tien** - ten;
 * **tot** - until;
+* **twaaf** - twelve;
+* **twee** - two;
+* **twintig** - twenty;
 
 ## U
 * **uiteenvallen** - to desintegrate;
@@ -114,10 +127,13 @@
 
 ## V
 * **vanaf** - starting from;
+* **veertien** - fourteen;
 * **verkopen** - to sell;
   * he verkoopt;
 * **verlies** *(n)* - loss, defeat;
-*
+* **vier** - four;
+* **vijf** - five;
+* **vijftien** - fifteen;
 
 ## W
 * **weerstand** *(m)* - resistance;
@@ -132,3 +148,7 @@
 ## X
 ## Y
 ## Z
+* **zes** - six;
+* **zestien** - sixteen;
+* **zeven** - seven;
+* **zeventien** - seventeen;
