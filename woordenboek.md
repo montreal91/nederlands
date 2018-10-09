@@ -46,6 +46,8 @@
 * **instantie** *(f)* - authority, instance;
 
 ## J
+* **jongen** *(m)* - boy;
+
 ## K
 * **koning** *(m)* - king;
 * **koninkrijk** *(n)* - kingdom;
